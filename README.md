@@ -11,7 +11,7 @@ Here are some ideas to get you started:
     - Building Python projects from Python Crash Course (3rd Edition)
     - Improving my Git/GitHub
 - 🌱 I’m currently learning ... /
-  - Python + Numpy + Pandas + SQL
+  - Python + Numpy + Pandas + SQL + HTML
 - 👯 I’m looking to collaborate on ...
   - Data engineering
 - 🤔 I’m looking for help with ...
